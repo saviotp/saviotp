@@ -8,11 +8,11 @@ I am a **Digital Design** undergraduate student from Brazil with a technical bac
 
 ### Museus Aumentados *(Augmented Museums)*
 A **Virtual Reality** project aimed at enhancing museum experiences through immersive technologies. This project focuses on bridging the gap between cultural heritage and modern technology.  
-**Advisor**: [Dr. João Vilnei](https://www.quixada.ufc.br/)
+**Advisor**: [Dr. João Vilnei](https://www.quixada.ufc.br/docente/joao/)
 
 ### CLIQUE Research Group
 A research group dedicated to **Human-Computer Interaction (HCI)**, addressing the **seven grand challenges** of HCI in Brazil. The group’s work aims to promote a deeper understanding of how technology interacts with people in diverse cultural contexts.  
-**Advisor**: [Ms. Leonara Braz](https://www.quixada.ufc.br/)
+**Advisor**: [Ms. Leonara Braz](https://www.quixada.ufc.br/docente/leonara-de-medeiros-braz/)
 
 ---
 
