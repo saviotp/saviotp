@@ -1,4 +1,4 @@
-# Hello
+# Hello!
 
 My name is **Sávio Pacheco**, and I’m a Brazilian **Digital Design** student with a technical background in **System Analysis and Development**. My academic and professional interests lie at the intersection of:
 
