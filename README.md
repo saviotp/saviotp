@@ -40,6 +40,8 @@ Feel free to reach out:
 
 - **Professional inquiries**: [steixeirapacheco@gmail.com](mailto:steixeirapacheco@gmail.com)  
 - **Academic/Research matters**: [steixeirapacheco@outlook.com](mailto:steixeirapacheco@outlook.com)
+- **LinkedIn**: [https://www.linkedin.com/in/saviopacheco/]
+- **Curriculum Vitae (Lattes)**: [https://lattes.cnpq.br/8095664555636486]
 
 ---
 
