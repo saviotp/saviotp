@@ -21,6 +21,7 @@ A research group dedicated to **Human-Computer Interaction (HCI)**, addressing t
 In addition to my research, I am currently expanding my knowledge in the following areas:
 
 - **Machine Learning**
+- **Deep Learning**
 - **Data Mining**
 
 As part of my personal development, I am also learning **Chinese** and **French** to broaden my linguistic and cultural understanding.
